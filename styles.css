@@ -1,0 +1,44 @@
+html,body{
+    height: 1093px;
+    width: 1440px;
+
+}
+body {
+    background-image: url(./images/pic_1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title-hero{
+    padding-top: 7rem;
+    font-size: 130px;
+    font-weight: bold;
+    font-family: Source Sans Pro;
+}
+.bg-button-purple {
+
+    background-color: #C271FF;
+}
+.text-color-purple {
+    color: #C271FF;
+    font-style: unset;
+
+}
+.h3{
+    margin-bottom: 5rem;
+}
+.btn-hero {
+    background-color: #C271FF;
+    border-radius: 50px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 12rem;
+    width: 250px;
+    color: white;
+    cursor: pointer;
+    margin: 0 auto;
+    margin-bottom: 12rem;
+    padding: 0.5rem;
+}
